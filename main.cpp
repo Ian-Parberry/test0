@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-  std::cout << "Hello World from csce05!" << std::endl;
+  std::cout << "Hello World from bash on ubuntu on windows!" << std::endl;
   return 0;
 } //main
